@@ -15,7 +15,7 @@ jobs:
           filename: about.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-          user: sudomoshi
+          user: faithctrl
           template: terminal
           base: header, activity, community, repositories
           config_timezone: Asia/Tokyo
